@@ -224,12 +224,14 @@ Random Forest Model achieved the following performance metrics on the test datas
 
 **1. Home Page & Input Form**  
 
-<img width="1899" height="947" alt="Screenshot 2026-07-26 041833" src="https://github.com/user-attachments/assets/97d5cde2-bce8-408a-9481-ae97b975a33a" />
+![House Price App](frontend/src/assets/Image1.png)
 
-<img width="1899" height="942" alt="Screenshot 2026-07-26 041902" src="https://github.com/user-attachments/assets/7b7e64b0-7dd1-4c3a-aba6-d06e79bbd52f" />
+![House Price App](frontend/src/assets/Image2.png)
 
-<img width="1897" height="933" alt="Screenshot 2026-07-26 042145" src="https://github.com/user-attachments/assets/1502c044-3931-4a4c-9ca9-23dd900a16fe" />
+![House Price App](frontend/src/assets/Image3.png)
+
+![House Price App](frontend/src/assets/Image4.png)
 
 **2. Result Page**  
 
-<img width="1904" height="950" alt="Screenshot 2026-07-26 042208" src="https://github.com/user-attachments/assets/ba26c2db-0446-457b-8124-965ab81ea440" />
+![House Price App](frontend/src/assets/Image5.png)

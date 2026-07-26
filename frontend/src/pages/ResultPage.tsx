@@ -25,7 +25,6 @@ export default function ResultPage() {
   return (
     <div className="page">
       <div className="title-block">
-        <p className="eyebrow">Estimate Complete</p>
         <h1>Your Estimate</h1>
         <p>Based on the details you provided, here's the model's predicted price.</p>
       </div>
@@ -51,10 +50,12 @@ export default function ResultPage() {
               <dd>{payload.floor_num}</dd>
             </div>
             <div>
-              <dt>Bathrooms / Balconies</dt>
-              <dd>
-                {payload.bathroom} / {payload.balcony}
-              </dd>
+              <dt>Bathrooms</dt>
+              <dd>{payload.bathroom}</dd>
+            </div>
+            <div>
+              <dt>Balconies</dt>
+              <dd>{payload.balcony}</dd>
             </div>
             <div>
               <dt>Furnishing</dt>
@@ -63,6 +64,14 @@ export default function ResultPage() {
             <div>
               <dt>Transaction</dt>
               <dd>{payload.transaction}</dd>
+            </div>
+            <div>
+              <dt>Ownership</dt>
+              <dd>{payload.ownership}</dd>
+            </div>
+            <div>
+              <dt>Facing</dt>
+              <dd>{payload.facing}</dd>
             </div>
           </dl>
         </div>
