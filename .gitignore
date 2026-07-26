@@ -1,0 +1,7 @@
+.venv-1/
+__pycache__/
+node_modules/
+dist/
+.env
+*.log
+house_prices.csv
