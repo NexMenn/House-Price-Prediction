@@ -95,7 +95,7 @@ House-Price-Prediction/
    2. Create and activate a virtual environment:  
       - Windows:  
       ```bash
-      -m venv .venv 
+      python -m venv .venv 
       ```  
       then
       ```bash
@@ -103,7 +103,7 @@ House-Price-Prediction/
       ```
       - Linux/Mac:  
       ```bash
-      -m venv .venv 
+      python3 -m venv .venv 
       ```
       then  
       ```bash
