@@ -224,12 +224,12 @@ Random Forest Model achieved the following performance metrics on the test datas
 
 **1. Home Page & Input Form**  
 
-<img width="1902" height="932" alt="image" src="https://github.com/user-attachments/assets/142a3e1b-92ea-48ad-86a7-c8466247480c" />
+<img width="1899" height="947" alt="Screenshot 2026-07-26 041833" src="https://github.com/user-attachments/assets/97d5cde2-bce8-408a-9481-ae97b975a33a" />
 
-<img width="1898" height="936" alt="image" src="https://github.com/user-attachments/assets/4e532ff7-fd08-480f-afff-de0cddcac4f3" />
+<img width="1899" height="942" alt="Screenshot 2026-07-26 041902" src="https://github.com/user-attachments/assets/7b7e64b0-7dd1-4c3a-aba6-d06e79bbd52f" />
 
-<img width="1900" height="922" alt="image" src="https://github.com/user-attachments/assets/d2a49f81-5b66-4974-b2c7-3988ebe68ae7" />
+<img width="1897" height="933" alt="Screenshot 2026-07-26 042145" src="https://github.com/user-attachments/assets/1502c044-3931-4a4c-9ca9-23dd900a16fe" />
 
 **2. Result Page**  
 
-<img width="1898" height="939" alt="image" src="https://github.com/user-attachments/assets/838c4b55-c571-4b2f-93e4-30c065008bf6" />  
+<img width="1904" height="950" alt="Screenshot 2026-07-26 042208" src="https://github.com/user-attachments/assets/ba26c2db-0446-457b-8124-965ab81ea440" />
